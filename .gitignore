@@ -1,0 +1,9 @@
+.vs/
+*.vsidx
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+bin/
+obj/
